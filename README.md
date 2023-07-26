@@ -32,6 +32,8 @@ O repositório contém resumos dos seguintes tópicos:
 4. [Análise bidimensional](https://github.com/BrunoOlivei/estatistica/blob/main/Estat%C3%ADstica%20B%C3%A1sica/4_analise_bidimensional.ipynb)
 5. [Probabilidades](https://github.com/BrunoOlivei/estatistica/blob/main/Estat%C3%ADstica%20B%C3%A1sica/5_probabilidades.ipynb)
 
+Os datasets utilizados nos exemplos em código estão no diretório data
+
 ## 🧰 Tecnologias
 - Python 3.11.3 [Python.org](https://www.python.org/downloads/)
 - conda 22.11.1 [Anaconda](https://www.anaconda.com/download#downloads)
