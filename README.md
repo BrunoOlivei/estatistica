@@ -37,7 +37,7 @@ O repositório contém resumos dos seguintes tópicos:
 - conda 22.11.1 [Anaconda](https://www.anaconda.com/download#downloads)
 - Obsidian 1.3.5 [Obsidian](https://obsidian.md/download) Opcional
 
-Os pacotes utilizados estão relacionados no arquivo requirements.txt.
+Os pacotes utilizados estão relacionados no arquivo [requirements.txt](https://github.com/BrunoOlivei/estatistica/blob/main/requirements.txt).
 
 ## 🏃 Como executar o projeto
 
