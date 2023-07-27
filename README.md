@@ -10,7 +10,7 @@
 
 ## 💻 Sobre o projeto
 
-📊 Este repositório contém resumos de conteúdos estudados de estatística básica, bem como resoluções de questões utilizando Python e Jupyter Notebook, além de alguns exemplos em excel. O objetivo do projeto é ser um caderno de anotações relacionado aos meus estudos sobre estatística baseando-se, principalmente, no livro Estatística Básica 9ª Edição e, se fornecer um recurso para estudantes que desejam aprender. 
+📊 Este repositório contém resumos de conteúdos estudados de estatística básica, bem como resoluções de questões utilizando Python e Jupyter Notebook, além de alguns exemplos em excel. O objetivo do projeto é ser um caderno de anotações relacionado aos meus estudos sobre estatística baseando-se, principalmente, no livro Estatística Básica 9ª Edição e, talvez, ser um recurso para estudantes que desejam aprender. 
 
 Os resumos e códigos estão organizados por tema, facilitando a navegação.
 
